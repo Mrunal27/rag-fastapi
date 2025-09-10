@@ -1,0 +1,56 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environments
+.venv/
+env/
+venv/
+rag-env/
+# Environment variables
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Docker
+*.db
+*.sqlite3
+*.pid
+*.gz
+*.tar
+*.tgz
+*.bak
+*.swp
+*.tmp
+*.lock
+docker-compose.override.yml
+
+# Hugging Face cache
+~/.cache/
+~/.huggingface/
+
+# Jupyter and notebooks
+.ipynb_checkpoints/
+
+# PDFs and uploads
+*.pdf
+uploads/
+
+# Git
+.git/
+.gitignore
+
+# VSCode and IDEs
+.vscode/
+.idea/
+*.code-workspace
