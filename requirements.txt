@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+PyPDF2
+sentence-transformers
+torch
+python-multipart
